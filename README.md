@@ -1,5 +1,7 @@
 # skool_points
 
+[![Python versions](https://img.shields.io/pypi/pyversions/libretranslate)](https://pypi.org/project/libretranslate)
+
 ## Skool points
 
 - Todo : 
@@ -9,7 +11,7 @@
     [X]  Write program in python based on the pseudocode
 
 ### Specs. :
-
+```markdown
 - Points
 
   You earn points when other members like your posts or comments.
@@ -34,10 +36,11 @@
   Level 7 - 2,015 points
   Level 8 - 8,015 points
   Level 9 - 33,015 points
+```
 
 ---
 
-### The Pseudocode <em>(use ‘while’ loop)</em> :
+### Pseudocode <em>(use ‘while’ loop)</em> :
 
 ```markdown
 Create a variable called points and set it to 0
@@ -59,7 +62,7 @@ Create a loop that will continue until the user decides to quit
 Print out the final points and level of the user.
 ```
 
-### The code :
+### Code <em>(python)</em>:
 
 ```python
 
